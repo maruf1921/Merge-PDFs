@@ -17,7 +17,8 @@ python merge_pdfs.py 2
 
 
 4. The script will prompt you to enter the name of each PDF file that you want to merge.
-5. The script will then merge the PDF files and create a new PDF file called `Merged.pdf`.
+5. The PDF files must be in the same folder.
+6. The script will then merge the PDF files and create a new PDF file called `Merged.pdf`.
 
 ## Example
 
